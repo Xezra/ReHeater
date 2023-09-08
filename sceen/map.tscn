@@ -3,4 +3,8 @@
 [node name="map" type="Node2D"]
 
 [node name="Polygon2D" type="Polygon2D" parent="."]
+position = Vector2(-227, -84)
 polygon = PackedVector2Array(91, 62, 65, 237, 86, 362, 252, 616, 587, 517, 693, 308, 540, 165, 333, 186, 103, 47)
+
+[node name="Polygon2D2" type="Polygon2D" parent="."]
+polygon = PackedVector2Array(592, 44, 683, 177, 859, 105, 946, 401, 862, 582, 528, 559, 441, 404, 548, 299, 556, 140)
